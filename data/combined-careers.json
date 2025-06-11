@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Mining Engineer",
+    "description": "Designs and manages mining sites with safety and efficiency.",
+    "pathway": "Mining and Resources",
+    "traits": [
+      "maths",
+      "engineering",
+      "problem-solving",
+      "outdoors"
+    ]
+  },
+  {
+    "title": "Advanced Manufacturing Technician",
+    "description": "Operates and maintains advanced machinery for precision manufacturing.",
+    "pathway": "Advanced Manufacturing",
+    "traits": [
+      "technology",
+      "manual",
+      "machinery",
+      "routine"
+    ]
+  }
+]
